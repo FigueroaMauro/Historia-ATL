@@ -1,0 +1,83 @@
+{
+    "Next Lang": {
+        "direccion ": "calle 123",
+        "ciudad": "Villa Carlos Paz",
+        "cursos": [
+            {
+                "nombre": "Ingles Básico",
+                "nivel": "principiantes",
+                "duracion ": "4 semanas",
+                "precio": "100$"
+            },
+            {
+                "nombre": "Inglés Avanzado",
+                "nivel": "avanzado",
+                "duracion ": "20 semanas",
+                "precio": "400$"
+            },
+            {
+                "nombre": "Italiano Básico",
+                "nivel": "principiantes",
+                "duracion": "5 semanas",
+                "precio": "120$"
+            }
+        ],
+        "telefonos": [
+            "156734756",
+            "154456234"
+        ]
+    }
+}
+// Datos personales
+{
+    "nombre": "Omar",
+    "apellido": "Collazos",
+    "idDiscord": "Omar_bcr",
+    "email": "obcollazos@gmail.com",
+    "habilidades": [
+        "php",
+        "Java",
+        "html",
+        "css"
+    ],
+    "estudiando": "Desarrollo Back-end java"
+}
+// JSon generado con chat GPT
+{
+    {
+        "nombre": "Reloj del Tiempo",
+        "descripcion": "Un reloj mágico que detiene el tiempo durante unos segundos.",
+        "habilidad": "Permite a los jugadores ganar tiempo adicional para pensar en respuestas.",
+        "uso": "Una vez por juego"
+    },
+    {
+        "nombre": "Varita de la Sabiduría",
+        "descripcion": "Una varita mágica que revela la respuesta correcta a una pregunta.",
+        "habilidad": "Proporciona la respuesta correcta a una pregunta difícil.",
+        "uso": "Una vez por juego"
+    },
+    {
+        "nombre": "Libro de los Secretos",
+        "descripcion": "Un libro antiguo y encantado que contiene información oculta sobre diferentes temas.",
+        "habilidad": "Ofrece pistas o información adicional sobre una respuesta específica.",
+        "uso": "Una vez por juego"
+    }
+}
+
+// Obtener un Json puro de chat GPT sin texto extra
+// Este es mi comando en el propt.
+// --- dame un ejemplo de objeto json pero no me des texto de explicación ni cabecera,
+// solo el cuerpo del objeto, no mostrar texto aparte del objeto json  ---
+
+{
+    "nombre": "Libro de Fantasía",
+    "autor": "John Doe",
+    "isbn": "978-1-234567-89-0",
+    "genero": "Fantasía",
+    "paginas": 352,
+    "editorial": "EditorialXYZ",
+    "anioPublicacion": 2022,
+    "idioma": "Español",
+    "precio": 19.99,
+    "disponible": true
+}
