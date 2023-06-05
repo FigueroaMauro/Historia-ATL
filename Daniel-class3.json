@@ -1,0 +1,105 @@
+//Punto 1
+
+{
+  "Academia": {
+    "Nombre": "Next Lang",
+    "Ubicacion": "Calle Principal 123",
+    "Ciudad": "Villa Carlos Paz"
+  },
+  "Cursos": [
+    {
+      "Nombre": "Inglés Básico",
+      "Duracion": "4 Semanas",
+      "Costo": "100 Dolares"
+    },
+    {
+      "Nombre": "Inglés Avanzado",
+      "Duracion": "20 Semanas",
+      "Costo": "400 Dolares"
+    },
+    {
+      "Nombre": "Italiano Básico",
+      "Duracion": "5 Semanas",
+      "Costo": "120 Dolares"
+    }
+  ],
+  "Telefonos": [
+    {
+      "Numero1": 156734756
+    },
+    {
+      "Numero2": 154456234
+    }
+  ]
+}
+
+/* Punto 2 */ 
+
+{
+  "Grupo": {
+    "Nombre": "Renegados",
+    "Cantidad": 9
+  },
+  "Integrantes": [
+    {
+      "Nombre": "Daniel",
+      "Apellido": "Duarte",
+      "Email":"danielduartebj186@gmail.com",
+      "Discord": "DuarteDA",
+      "Edad": 20,
+      "Habilidades": [
+        "HTML",
+        "CSS",
+        "C"
+      ],
+      "Estudio": "Tecnicatura Universitaria en Desarrollo De Software"
+    }
+  ]
+}
+
+//Punto 3
+
+{
+  "pregunta1": {
+    "pregunta": "¿Cuál es el símbolo químico del oro?",
+    "respuestas": [
+      "Au",
+      "Ag",
+      "O",
+      "Fe"
+    ],
+    "correcta": "Au",
+    "explicacion": "El símbolo químico del oro es Au, que proviene del término latino 'aurum'."
+  },
+  "pregunta2": {
+    "pregunta": "¿Cuál es el objeto más grande del sistema solar?",
+    "opciones": [
+      "Sol",
+      "Júpiter",
+      "Saturno",
+      "Tierra"
+    ],
+    "correcta": "Sol",
+    "explicacion": "El Sol es el objeto más grande del sistema solar. Es una estrella con un diámetro de aproximadamente 1.4 millones de kilómetros y representa casi el 99.86% de la masa total del sistema solar. Es una fuente de luz, calor y energía para los demás planetas y cuerpos celestes."
+  }
+}
+
+// Punto 4
+
+//Este es mí Prompt para Chat GPT
+
+/* Genere una trivia con un solo objeto en formato JSON 
+la misma debe contener al final, la repuesta correcta y
+una breve explicación. !No proporciones textos de más! */
+
+{
+  "pregunta": "¿Quién pintó La Mona Lisa?",
+  "opciones": [
+    "Pablo Picasso",
+    "Leonardo da Vinci",
+    "Vincent van Gogh",
+    "Frida Kahlo"
+  ],
+  "correcta": "Leonardo da Vinci",
+  "explicacion": "La Mona Lisa es una famosa obra de arte pintada por Leonardo da Vinci en el siglo XVI. Es conocida por su enigmática sonrisa y se encuentra expuesta en el Museo del Louvre en París, Francia."
+}
